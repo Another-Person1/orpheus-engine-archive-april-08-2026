@@ -1,3 +1,31 @@
+# Orpheus Engine Archive (April 8, 2026)
+
+> [!CAUTION]
+This repository is a technical archive for forensic auditing purposes. The contained source code implements automated data harvesting, third-party scraping, and student profiling. **Use with extreme caution.** This project was not authored by the archiver; all liability and inquiries regarding its function must be directed to the original authors.
+
+## Audit Summary
+
+This fork preserves the state of the repository as of April 8, 2026.
+
+This snapshot was captured following the merge of Pull Request #18, which integrated new data warehouse replication logic. This archive ensures technical transparency regarding the internal surveillance infrastructure currently in operation.
+
+Documented Functional Constraints
+
+The following operations are hard-coded into this suite and are performed without explicit per-event disclosure to participants:
+
+Database Replication (PR #18): Implements a "Full-Refresh" logic to mirror private interaction databases and student "reviews" into a centralized Postgres Data Warehouse.
+
+Automated Gender Assignment: Programmatically assigns gender markers to students using the Genderize API based on name strings.
+
+Geospatial Geocoding: Converts physical addresses into latitude and longitude coordinates via the Google Maps API for permanent tracking.
+
+Third-Party Web Scraping: Utilizes Bright Data (a commercial proxy and scraping service) to monitor and archive student project mentions across Reddit, Hacker News, and other public forums.
+
+Private Infrastructure Deployment: Configured for deployment on private Coolify instances, removing the data pipeline from standard cloud compliance oversight.
+
+Original unchanged README.md text is below.
+
+---
 This is a set of Python scripts that generates dashboards and reporting across Hack Club. 
 
 Most nonprofits / organizations / companies don’t have the code for their data pipelines public. I’ve actually never seen anyone publicize it before besides Dagster’s sample project. All of Hack Club's data scripts are open source in this repo.
