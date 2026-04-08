@@ -1,4 +1,4 @@
-# Orpheus Engine Archive (April 8, 2026)
+# Orpheus Engine (orpheus-engine) Archive (April 8, 2026)
 
 > [!CAUTION]
 > **TECHNICAL AUDIT NOTICE**
@@ -8,7 +8,7 @@
 >
 >   * **No warranties** are provided; this archive is provided "as-is" for transparency purposes.
 >   * The archiver (the owner of this fork) is **not a contributor** to this project, has **no affiliation** with the original authors, and assumes no responsibility for the function or deployment of this code.
->   * All third-party trademarks mentioned (including but not limited to GitHub, Google, Dagster, OpenAI, Genderize, and Bright Data) are the property of their respective owners. The archiver claims no ownership rights over them.
+>   * All third-party trademarks mentioned (including but not limited to GitHub, Google, Dagster, OpenAI, Genderize, and Bright Data) are the property of their respective owners. **The archiver claims no ownership rights over any third party trademarks mentioned here.**
 >
 > All technical liability, privacy inquiries, or complaints regarding these operations must be directed to the original authors via the contact information in the repository metadata or on the official [Hack Club website](https://hackclub.com/).
 
