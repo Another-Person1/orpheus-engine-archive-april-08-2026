@@ -2,6 +2,7 @@
 
 > [!CAUTION]
 > **TECHNICAL AUDIT NOTICE**
+>
 > This repository is a static archive preserved for forensic auditing and youth safeguarding oversight. The source code contained herein implements automated data harvesting, third-party profiling, and programmatic surveillance of minors.
 >
 > **Disclaimer and Non-Affiliation:**
@@ -11,6 +12,21 @@
 >   * All third-party trademarks mentioned (including but not limited to GitHub, Google, Dagster, OpenAI, Genderize, and Bright Data) are the property of their respective owners. **The archiver claims no ownership rights over any third party trademarks mentioned here.**
 >
 > All technical liability, privacy inquiries, or complaints regarding these operations must be directed to the original authors via the contact information in the repository metadata or on the official [Hack Club website](https://hackclub.com/).
+
+> [!IMPORTANT]
+>**LEGAL NOTICE & ARCHIVE PROTOCOL**
+>
+>* No Support of Content: The archiver does not support, endorse, or condone any viewpoints, ideologies, or organizational practices expressed or implemented within this repository.
+>
+>* No Warranties: This archive is provided "as-is" for transparency and forensic purposes; no warranties of any kind are provided regarding the functionality, safety, or legality of the contained code.
+>
+>* Non-Production Warning: The archiver strictly does not condone the use of this software in a production environment or with real-world user data. This code implements surveillance and profiling mechanisms that may violate international privacy standards and youth safeguarding regulations.
+>
+>* Purpose of Archive: This repository is maintained strictly for security and privacy audits, legal documentation, and historical archival. It serves as a public interest case study in the degradation of nonprofit transparency and as a technical reference for the ethical failures of centralized youth surveillance infrastructure.
+>
+>* Non-Affiliation: The archiver (the owner of this fork) is not a contributor to this project, has no affiliation with the original authors (including but not limited to [@]24c02 or the Hack Foundation), and assumes no responsibility for the function or deployment of this code.
+>
+>* Trademark Notice: All third-party trademarks mentioned (including but not limited to Hack Club, The Hack Foundation, GitHub, Google, Dagster, OpenAI, Genderize, and Bright Data) are the property of their respective owners. The archiver claims no ownership rights over any third-party trademarks mentioned herein.
 
 ## Audit Summary
 
