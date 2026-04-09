@@ -1,8 +1,10 @@
 # Orpheus Engine (orpheus-engine) Archive (April 8, 2026)
 
 >[!CAUTION]
->TECHNICAL AUDIT NOTICE
->This repository is a static archive preserved for forensic auditing and youth safeguarding oversight. The source code contained herein implements automated data >harvesting, third-party profiling, and programmatic surveillance of minors.
+>
+>**TECHNICAL AUDIT NOTICE**
+>
+>This repository is a static archive preserved for forensic auditing and youth safeguarding oversight. The source code contained herein implements automated data harvesting, third-party profiling, and programmatic surveillance of minors.
 >
 >All technical liability, privacy inquiries, or complaints regarding these operations must be directed to the original authors via the contact information in the repository metadata or on the official [Hack Club website](https://hackclub.com).
 
