@@ -42,25 +42,6 @@ The following operations are hard-coded into this suite and are executed without
 
 ## Original Project Documentation (Unchanged)
 
-This is a set of Python scripts that generates dashboards and reporting across Hack Club.
-Most nonprofits / organizations / companies don’t have the code for their data pipelines public. All of Hack Club's data scripts are open source in this repo.
-
-Some other tasks it does are:
-
-  * Calculates sign-up counts and HCB spend for YSWS programs
-  * Downloads our email list and backs it up in Postgres
-  * Syncs Airtables to Postgres for reporting
-
-To illustrate, here’s what happens when you submit a project that gets approved for YSWS:
-
-1.  **Gender Assignment:** If we don’t already have a gender on file for you, we use the Genderize API to try and guess your gender using the name you provided. We use this to try and understand how many girls are shipping projects, since we don’t want to have to ask for gender across every form and care about helping more girls make projects. If you have self-reported gender before, we always default to your self reported gender (male / female / or nonbinary).
-
-2.  **Geocoding:** We geocode your address using the Google Maps API to convert it into a latitude and longitude. We use this for map visualizations and also to understand how many Hack Clubbers are participating from different regions (ex. USA vs. Europe).
-
-3.  **Viral Monitoring:** We use the GitHub API to get the current number of stars from your GitHub repo. If your repo has more than 5 GitHub stars, we then use the Bright Data API to try and find places your project has gone viral on the internet (ex. reddit / Hacker News / etc). We do this as one way of understanding quality of projects across YSWS programs.
-
-4.  **Archival:** We use archive.hackclub.com (Arker) to archive the public deployed page for your project and your git repo. This is used for historical records and fraud detection. It only pulls public information from your public git repo and your public deployed page.
----
 This is a set of Python scripts that generates dashboards and reporting across Hack Club. 
 
 Most nonprofits / organizations / companies don’t have the code for their data pipelines public. I’ve actually never seen anyone publicize it before besides Dagster’s sample project. All of Hack Club's data scripts are open source in this repo.
